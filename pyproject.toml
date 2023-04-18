@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "aiintakeassist"
+version = "0.0.1"
+description = "Demonstration of using ML to assist with legal services intakes"
+authors = ["Nate Vogel"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+openai = "==0.27.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
