@@ -35,3 +35,6 @@ And transforms it into a structured dictionary, like
 - Create a recording you'd like to use for a test. Simply reading out something like one of the examples in the propmt in app.py will be a good place to start. 
 - Run `python app.py`
 
+## Note: 
+
+Hopefully this is obvious, but in case its not, all names, ages, etc. in this repository are totally made up. Any correspondence with any real people, living or dead, would be totally coincidental.
